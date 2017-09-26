@@ -6,7 +6,7 @@ require 'peterson_view_tool/version'
 Gem::Specification.new do |spec|
   spec.name          = "peterson_view_tool"
   spec.version       = PetersonViewTool::VERSION
-  spec.authors       = ["Utah3002"]
+  spec.authors       = ["Spencer Peterson"]
   spec.email         = ["peterson.spence@gmail.com"]
 
   spec.summary       = %q{Various view specific methods for applications I use.}
